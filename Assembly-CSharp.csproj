@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2F5FFD36-8659-7109-1BE3-0EDA637C74AB}</ProjectGuid>
+    <ProjectGuid>{756A215E-79A5-E7E4-C481-AAE99C0A5FA0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -115,49 +115,49 @@
     <Compile Include="Assets\Scripts\ViewFolder\WeaponReloadUi.cs" />
     <Compile Include="Assets\Scripts\ViewFolder\WeaponUi.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids.Editor">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/shpyn/Desktop/lessons/GameProjectShooter1/FPS Lesson 1 Shpynov/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/shpyn/Desktop/FPSLessons/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
