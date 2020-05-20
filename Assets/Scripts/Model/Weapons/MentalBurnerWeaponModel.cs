@@ -7,6 +7,7 @@ namespace Game
 
         protected override void Awake()
         {
+            base.Awake();
             _rechergeTime = 1.0f;
             _clipVolume = 5;
             _unlimitedCharge = true;
